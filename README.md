@@ -11,6 +11,8 @@ i love to learn new things and help build things nobody's built before
 <a href="https://x.com/midasavocado"><picture><source media="(prefers-color-scheme: dark)" srcset="img/x-white.svg"><img src="img/x-black.svg" alt="𝕏 @midasavocado" width="28" height="28"></picture></a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/midasavocado"><picture><source media="(prefers-color-scheme: dark)" srcset="img/github-white.svg"><img src="img/github-black.svg" alt="GitHub @midasavocado" width="28" height="28"></picture></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://midaswilliam.com"><picture><source media="(prefers-color-scheme: dark)" srcset="img/web-white.svg"><img src="img/web-black.svg" alt="midaswilliam.com" width="28" height="28"></picture></a>
 
 </div>
 
