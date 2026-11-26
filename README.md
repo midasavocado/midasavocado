@@ -17,5 +17,3 @@ i love to learn new things and help build things nobody's built before
 #### ☾ into
 
 space, rockets, planes, math, photography, and OSINT
-
-$$e^{i\pi} + 1 = 0 \qquad T^2 \propto a^3 \qquad z \mapsto z^2 + c$$
