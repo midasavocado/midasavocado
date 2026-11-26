@@ -1,15 +1,12 @@
 <div align="center">
 
-<img src="img/photos.jpg" alt="photos I've taken: a Starship launch, the booster catch, Saturn, a lunar eclipse, Ship on the tower, the top of Mt. Whitney" width="100%">
+<img src="img/photos.jpg" alt="photos I've taken: Flight 15 launch, the S42 catch, Saturn, a lunar eclipse, the full stack (S42, B22), Mt. Whitney summit" width="100%">
 
-<sub>all taken by me: a Starship launch · the catch · Saturn from my backyard · a lunar eclipse · Ship on the tower · the top of Mt. Whitney</sub>
+<sub>all taken by me: Flight 15 - launch · S42 catch · Saturn from my backyard · a lunar eclipse · Full stack (S42, B22) · Mt. Whitney summit</sub>
 
 ### ✦ hi, i'm midas ✦
 
-i build things until they work, or until it's 3am.<br>
-mostly apps, websites, and whatever space thing i'm into that week.
-
-$$\Delta v = I_{sp} g_0 \ln \frac{m_0}{m_f}$$
+i love to learn new things and help build things nobody's built before
 
 </div>
 
